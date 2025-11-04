@@ -2,7 +2,7 @@
 
 A modern, responsive calculator web application with iOS-inspired design. Built with vanilla JavaScript, HTML5, and CSS3.
 
-![iOS Calculator Preview](images/calculator-preview.png)
+![iOS Calculator Preview](Calculator_Preview.png)
 
 ## Features
 
