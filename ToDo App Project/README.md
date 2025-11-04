@@ -7,7 +7,7 @@
 
 ## Overview
 
-![ToDo Preview](Web Page Screenshot.png)
+![ToDo Preview](Web%20Page%20Screenshot.png)
 
 **MyTasks** is a modern, responsive To-Do List web application designed to help users organize their daily tasks efficiently.  
 It allows users to add, edit, delete, filter, and sort tasks, as well as track progress and priorities with a clean, intuitive interface.
